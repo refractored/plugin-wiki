@@ -1,3 +1,7 @@
+---
+icon: question
+---
+
 # Q & A
 
 **Does this plugin support SQLITE?**

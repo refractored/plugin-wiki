@@ -2,17 +2,13 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Joblistings
 
-* [Quickstart](getting-started/quickstart/README.md)
-  * [Page 1](getting-started/quickstart/page-1.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Config](joblistings/config/README.md)
+  * [GUI](joblistings/config/gui.md)
+  * [Messages](joblistings/config/gui-1.md)
+* [Q & A](joblistings/q-and-a.md)
 
-## Basics
+## Bloodmoon Reloaded
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [COMING SOON](bloodmoon-reloaded/coming-soon.md)

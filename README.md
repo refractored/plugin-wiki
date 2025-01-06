@@ -10,7 +10,7 @@ Welcome to my plugin page :drum:
 
 [Hangar](https://hangar.papermc.io/refractored)\
 [Polymart](https://polymart.org/user/refractored.1968)\
-[SpigotMC](https://www.spigotmc.org/members/bigchief911.800712/)
+[SpigotMC](https://www.spigotmc.org/members/bigchief911.800712/) (Outdated)
 
 \
 **Plugin Discord Support:**

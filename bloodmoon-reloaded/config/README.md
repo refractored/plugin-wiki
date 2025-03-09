@@ -6,7 +6,7 @@ description: The main config of the plugin
 # Config
 
 {% hint style="info" %}
-If you're looking for the world config or how to config each plugin then look [here](world-configs.md)
+If you're looking for the world config or how to config each world then look [here](world-configs.md).
 {% endhint %}
 
 ```

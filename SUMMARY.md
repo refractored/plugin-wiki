@@ -20,6 +20,7 @@
   * [World Configs](bloodmoon-reloaded/config/world-configs.md)
   * [Messages](bloodmoon-reloaded/config/messages.md)
 * [Commands](bloodmoon-reloaded/commands.md)
+* [Placeholders](bloodmoon-reloaded/placeholders.md)
 
 ***
 

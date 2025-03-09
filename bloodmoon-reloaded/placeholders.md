@@ -8,6 +8,8 @@ icon: percent
 Replace \[world] with the world name. Do not put the brackets.
 {% endhint %}
 
+### All Bloodmoons:
+
 **%\[world]\_status%**
 
 The status of the world's bloodmoon, with formatting.

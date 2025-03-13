@@ -21,7 +21,5 @@
   * [Messages](bloodmoon-reloaded/config/messages.md)
 * [Commands](bloodmoon-reloaded/commands.md)
 * [Placeholders](bloodmoon-reloaded/placeholders.md)
-
-***
-
-* [Q & A](q-and-a.md)
+* [Q & A](bloodmoon-reloaded/q-and-a.md)
+* [Extensions](bloodmoon-reloaded/extensions.md)

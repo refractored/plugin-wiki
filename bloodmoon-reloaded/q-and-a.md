@@ -18,9 +18,8 @@ No. Please use [PaperMC](https://papermc.io/) (or its [forks](https://luminescen
 
 There likely is an extension for it! The only feature that wont be ported over is the levels.
 
-Features part of the original plugin will be free.
+Features part of the original plugin will be free.\
 
-TBA
 
 
 

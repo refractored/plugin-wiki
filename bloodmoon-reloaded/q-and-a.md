@@ -42,8 +42,8 @@ If you already uninstalled don't fret! You can just reinstall the plugin and dis
 
 \
 Changes made:\
-Daylight cycle disabled (If enabled, Enabled by default)\
-Monster spawn limit (If enabled, Enabled by default)
+Daylight cycle disabled (If enabled, enabled by default)\
+Monster spawn limit (If enabled, enabled by default)
 
 
 

@@ -34,8 +34,16 @@ If you did buy the plugin add this to your config:
 DisablePurchaseMessage: true
 ```
 
-\
+**How to uninstall the plugin?**
 
+Uninstall the plugin like you would any other plugin BUT make sure there aren't any active bloodmoons!
+
+If you already uninstalled don't fret! You can just reinstall the plugin and disable the bloodmoon then uninstall OR you can manually revert changes that were made to the server.
+
+\
+Changes made:\
+Daylight cycle disabled (If enabled, Enabled by default)\
+Monster spawn limit (If enabled, Enabled by default)
 
 
 

@@ -6,7 +6,7 @@ icon: dollar-sign
 
 The plugin can be purchased on Polymart.
 
-[https://polymart.org/resource/bloodmoon-reloaded.7375/](https://polymart.org/resource/bloodmoon-reloaded.7375/)\
+[https://polymart.org/product/7613/bloodmoon-reloaded](https://polymart.org/product/7613/bloodmoon-reloaded)\
 \
 Giveaways & Dev builds are on the server.\
 \
